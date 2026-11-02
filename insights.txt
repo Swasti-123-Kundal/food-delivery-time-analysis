@@ -1,0 +1,30 @@
+Orders analysed: 45,593
+
+Average delivery time: 26.3 min
+
+Orders taking > 30 min: 29.8%
+
+Traffic: worst = 'Jam' (avg 31.2 min, 50.6% late)
+
+Weather: worst = 'Cloudy' (avg 28.9 min, 43.8% late)
+
+City type: worst = 'Semi-Urban' (avg 49.7 min, 100.0% late)
+
+Festival: worst = 'Yes' (avg 45.5 min, 100.0% late)
+
+Multiple deliveries carried: worst = '3.0' (avg 47.8 min, 100.0% late)
+
+Vehicle: worst = 'motorcycle' (avg 27.6 min, 33.9% late)
+
+Distance band (km): worst = '15-20' (avg 29.9 min, 45.3% late)
+
+Rider rating band: worst = '<=3.5' (avg 36.0 min, 93.9% late)
+
+Peak slow hour: 20:00 (avg 31.2 min)
+
+Correlation with delivery time:
+time_taken                 1.00
+distance_km                0.32
+Delivery_person_Age        0.30
+Delivery_person_Ratings   -0.34
+multiple_deliveries        0.39
